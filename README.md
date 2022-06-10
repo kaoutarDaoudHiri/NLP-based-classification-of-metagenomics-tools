@@ -30,3 +30,5 @@ git clone https://github.com/kaoutarDaoudHiri/HTS-data-analysis-tools-classifier
 jupyter notebook
 ```
 > This will start the server and open your default web browser to the Jupyter interface. In the page, go into the code/notebooks folder and select the notebook that you wish to view/run.
+> In the Jupyter notebooks the names of the EDAM classes are shortened, we keep the part outside the parentheses
+(Sequence) alignment, (Taxonomic) classification, (Sequence) assembly, (Sequence) trimming, (Sequencing) quality control, (Sequence) annotation,  (Sequence) assembly validation, (RNA-seq quantification for) abundance estimation, SNP-Discovery, Visualization.
