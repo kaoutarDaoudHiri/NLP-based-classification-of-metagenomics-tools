@@ -14,14 +14,6 @@ by Kaoutar Daoud Hiri, Matjaž Hren and Tomaž Curk
 See the README.md files in each directory for a full description.
 
 
-## Supplementary data files
-- [Dataset S1. Raw Tool Description Abstracts Only.](https://github.com/kaoutarDaoudHiri/HTS-data-analysis-tools-classifier/blob/849c045351f01e82915cf300e3cd306039e74e98/Datasets/raw/Dataset%20S1.%20Raw%20Tool%20Description%20Abstracts%20Only_.xlsx)
-- [Dataset S2. Raw Tool Description Methods Only.](https://github.com/kaoutarDaoudHiri/HTS-data-analysis-tools-classifier/blob/849c045351f01e82915cf300e3cd306039e74e98/Datasets/raw/Dataset%20S2.%20Raw%20Tool%20Description%20Methods%20Only_.xlsx)
-- [Dataset S3. Raw Tool Description Abstracts+Methods](https://github.com/kaoutarDaoudHiri/HTS-data-analysis-tools-classifier/blob/849c045351f01e82915cf300e3cd306039e74e98/Datasets/raw/Dataset%20S3.%20Raw%20Tool%20Description%20Abstracts+Methods_.xlsx)
-- [Dataset S4. Preprocessed Tool Description Abstracts Only.](https://github.com/kaoutarDaoudHiri/HTS-data-analysis-tools-classifier/blob/849c045351f01e82915cf300e3cd306039e74e98/Datasets/preprocessed/Dataset%20S4.%20Preprocessed%20Tool%20Description%20Abstracts%20Only.csv)
-- [Dataset S5. Preprocessed Tool Description Methods Only.](https://github.com/kaoutarDaoudHiri/HTS-data-analysis-tools-classifier/blob/849c045351f01e82915cf300e3cd306039e74e98/Datasets/preprocessed/Dataset%20S5.%20Preprocessed%20Tool%20Description%20Methods%20Only.csv)
-- [Dataset S6. Preprocessed Tool Description Abstracts+Methods](https://github.com/kaoutarDaoudHiri/HTS-data-analysis-tools-classifier/blob/849c045351f01e82915cf300e3cd306039e74e98/Datasets/preprocessed/Dataset%20S6.%20Preprocessed%20Tool%20Description%20Abstracts+Methods.csv)
-- 
 
 ## Getting the code
 > You can download a copy of all the files in this repository by cloning the git repository:
