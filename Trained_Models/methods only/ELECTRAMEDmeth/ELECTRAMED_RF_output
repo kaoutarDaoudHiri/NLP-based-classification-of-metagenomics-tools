@@ -1,0 +1,47 @@
+{'Best GS Acc': 0.18789173789173788, 'Val Acc': 0.6026621178338977, 'Best Params': {'bootstrap': True, 'max_depth': 100, 'max_features': 'sqrt', 'max_leaf_nodes': None, 'min_samples_leaf': 2, 'min_samples_split': 5}}
+{'Best GS Acc': 0.1584045584045584, 'Val Acc': 0.6368277076156132, 'Best Params': {'bootstrap': True, 'max_depth': 100, 'max_features': 'sqrt', 'max_leaf_nodes': None, 'min_samples_leaf': 2, 'min_samples_split': 10}}
+{'Best GS Acc': 0.13532763532763534, 'Val Acc': 0.6743826311872712, 'Best Params': {'bootstrap': True, 'max_depth': 100, 'max_features': 'sqrt', 'max_leaf_nodes': None, 'min_samples_leaf': 2, 'min_samples_split': 5}}
+{'Best GS Acc': 0.1690883190883191, 'Val Acc': 0.6957577394855539, 'Best Params': {'bootstrap': False, 'max_depth': 100, 'max_features': 'auto', 'max_leaf_nodes': None, 'min_samples_leaf': 4, 'min_samples_split': 10}}
+{'Best GS Acc': 0.16652421652421653, 'Val Acc': 0.7136067330157869, 'Best Params': {'bootstrap': False, 'max_depth': 100, 'max_features': 'sqrt', 'max_leaf_nodes': None, 'min_samples_leaf': 4, 'min_samples_split': 5}}
+{'Best GS Acc': 0.16096866096866097, 'Val Acc': 0.6548565956337256, 'Best Params': {'bootstrap': True, 'max_depth': 100, 'max_features': 'sqrt', 'max_leaf_nodes': None, 'min_samples_leaf': 2, 'min_samples_split': 2}}
+{'Best GS Acc': 0.17435897435897438, 'Val Acc': 0.6075854364298836, 'Best Params': {'bootstrap': True, 'max_depth': 100, 'max_features': 'sqrt', 'max_leaf_nodes': None, 'min_samples_leaf': 2, 'min_samples_split': 5}}
+{'Best GS Acc': 0.1866096866096866, 'Val Acc': 0.7283423862404592, 'Best Params': {'bootstrap': False, 'max_depth': 100, 'max_features': 'auto', 'max_leaf_nodes': None, 'min_samples_leaf': 4, 'min_samples_split': 10}}
+{'Best GS Acc': 0.1678062678062678, 'Val Acc': 0.654415965380405, 'Best Params': {'bootstrap': True, 'max_depth': 100, 'max_features': 'auto', 'max_leaf_nodes': None, 'min_samples_leaf': 1, 'min_samples_split': 2}}
+{'Best GS Acc': 0.15982905982905984, 'Val Acc': 0.7307385124137632, 'Best Params': {'bootstrap': False, 'max_depth': 100, 'max_features': 'sqrt', 'max_leaf_nodes': None, 'min_samples_leaf': 1, 'min_samples_split': 5}}
+{'Best GS Acc': 0.2056980056980057, 'Val Acc': 0.6627248912016914, 'Best Params': {'bootstrap': False, 'max_depth': 100, 'max_features': 'auto', 'max_leaf_nodes': None, 'min_samples_leaf': 1, 'min_samples_split': 2}}
+{'Best GS Acc': 0.20071225071225074, 'Val Acc': 0.7103973242031051, 'Best Params': {'bootstrap': False, 'max_depth': 100, 'max_features': 'auto', 'max_leaf_nodes': None, 'min_samples_leaf': 1, 'min_samples_split': 2}}
+{'Best GS Acc': 0.18461538461538463, 'Val Acc': 0.6994491239547019, 'Best Params': {'bootstrap': False, 'max_depth': 100, 'max_features': 'sqrt', 'max_leaf_nodes': None, 'min_samples_leaf': 4, 'min_samples_split': 2}}
+{'Best GS Acc': 0.14316239316239315, 'Val Acc': 0.6700180061139746, 'Best Params': {'bootstrap': True, 'max_depth': 100, 'max_features': 'auto', 'max_leaf_nodes': None, 'min_samples_leaf': 2, 'min_samples_split': 5}}
+{'Best GS Acc': 0.2282051282051282, 'Val Acc': 0.6210841521359277, 'Best Params': {'bootstrap': False, 'max_depth': 100, 'max_features': 'auto', 'max_leaf_nodes': None, 'min_samples_leaf': 1, 'min_samples_split': 2}}
+{'Best GS Acc': 0.19601139601139603, 'Val Acc': 0.6464106741616883, 'Best Params': {'bootstrap': False, 'max_depth': 100, 'max_features': 'auto', 'max_leaf_nodes': None, 'min_samples_leaf': 1, 'min_samples_split': 10}}
+{'Best GS Acc': 0.17877492877492876, 'Val Acc': 0.717073489531654, 'Best Params': {'bootstrap': False, 'max_depth': 100, 'max_features': 'sqrt', 'max_leaf_nodes': None, 'min_samples_leaf': 2, 'min_samples_split': 10}}
+{'Best GS Acc': 0.18903133903133904, 'Val Acc': 0.6975953024888117, 'Best Params': {'bootstrap': False, 'max_depth': 100, 'max_features': 'sqrt', 'max_leaf_nodes': None, 'min_samples_leaf': 1, 'min_samples_split': 5}}
+{'Best GS Acc': 0.16153846153846152, 'Val Acc': 0.6770560666795453, 'Best Params': {'bootstrap': False, 'max_depth': 100, 'max_features': 'auto', 'max_leaf_nodes': None, 'min_samples_leaf': 1, 'min_samples_split': 2}}
+{'Best GS Acc': 0.1690883190883191, 'Val Acc': 0.6515458969511558, 'Best Params': {'bootstrap': True, 'max_depth': 100, 'max_features': 'sqrt', 'max_leaf_nodes': None, 'min_samples_leaf': 2, 'min_samples_split': 5}}
+{'Best GS Acc': 0.17891737891737894, 'Val Acc': 0.6458169734935075, 'Best Params': {'bootstrap': False, 'max_depth': 100, 'max_features': 'sqrt', 'max_leaf_nodes': None, 'min_samples_leaf': 2, 'min_samples_split': 5}}
+{'Best GS Acc': 0.18019943019943022, 'Val Acc': 0.6900239811180481, 'Best Params': {'bootstrap': False, 'max_depth': 100, 'max_features': 'sqrt', 'max_leaf_nodes': None, 'min_samples_leaf': 1, 'min_samples_split': 5}}
+{'Best GS Acc': 0.19145299145299147, 'Val Acc': 0.6441381481188784, 'Best Params': {'bootstrap': False, 'max_depth': 100, 'max_features': 'sqrt', 'max_leaf_nodes': None, 'min_samples_leaf': 4, 'min_samples_split': 5}}
+{'Best GS Acc': 0.1841880341880342, 'Val Acc': 0.7481792305480188, 'Best Params': {'bootstrap': False, 'max_depth': 100, 'max_features': 'auto', 'max_leaf_nodes': None, 'min_samples_leaf': 4, 'min_samples_split': 2}}
+{'Best GS Acc': 0.18846153846153846, 'Val Acc': 0.7584459003542765, 'Best Params': {'bootstrap': True, 'max_depth': 100, 'max_features': 'sqrt', 'max_leaf_nodes': None, 'min_samples_leaf': 2, 'min_samples_split': 5}}
+### Best Combination : 0.7584459003542765 {'Best GS Acc': 0.18846153846153846, 'Val Acc': 0.7584459003542765, 'Best Params': {'bootstrap': True, 'max_depth': 100, 'max_features': 'sqrt', 'max_leaf_nodes': None, 'min_samples_leaf': 2, 'min_samples_split': 5}}
+##### Classification report #####
+              precision    recall  f1-score   support
+
+           0       0.00      0.00      0.00         5
+           1       0.50      0.25      0.33         4
+           2       0.00      0.00      0.00         4
+           3       0.33      0.60      0.43         5
+           4       0.00      0.00      0.00         2
+           5       0.32      0.89      0.47         9
+           6       0.00      0.00      0.00         3
+           7       0.00      0.00      0.00         2
+           8       0.00      0.00      0.00         2
+           9       0.00      0.00      0.00         2
+          10       0.00      0.00      0.00         3
+          11       0.00      0.00      0.00         2
+          12       0.00      0.00      0.00         2
+
+    accuracy                           0.27        45
+   macro avg       0.09      0.13      0.09        45
+weighted avg       0.15      0.27      0.17        45
+

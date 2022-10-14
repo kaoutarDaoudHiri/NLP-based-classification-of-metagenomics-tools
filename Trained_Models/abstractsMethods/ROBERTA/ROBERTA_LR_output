@@ -1,0 +1,47 @@
+{'Best GS Acc': 0.5363247863247863, 'Val Acc': 0.8481389495017791, 'Best Params': {'C': 0.4, 'class_weight': 'balanced', 'solver': 'newton-cg'}}
+{'Best GS Acc': 0.4811965811965812, 'Val Acc': 0.8841768769507106, 'Best Params': {'C': 0.2, 'class_weight': 'balanced', 'solver': 'newton-cg'}}
+{'Best GS Acc': 0.4874643874643875, 'Val Acc': 0.8438217643814753, 'Best Params': {'C': 0.6, 'class_weight': 'balanced', 'solver': 'newton-cg'}}
+{'Best GS Acc': 0.43162393162393164, 'Val Acc': 0.8817294439980798, 'Best Params': {'C': 0.9, 'class_weight': 'balanced', 'solver': 'newton-cg'}}
+{'Best GS Acc': 0.5078347578347578, 'Val Acc': 0.9254612695518091, 'Best Params': {'C': 0.1, 'class_weight': 'balanced', 'solver': 'newton-cg'}}
+{'Best GS Acc': 0.41766381766381766, 'Val Acc': 0.8769887796637289, 'Best Params': {'C': 0.9, 'class_weight': 'balanced', 'solver': 'newton-cg'}}
+{'Best GS Acc': 0.4297720797720797, 'Val Acc': 0.9149134281455529, 'Best Params': {'C': 0.1, 'class_weight': 'balanced', 'solver': 'newton-cg'}}
+{'Best GS Acc': 0.45954415954415956, 'Val Acc': 0.8603068698308303, 'Best Params': {'C': 0.1, 'class_weight': 'balanced', 'solver': 'newton-cg'}}
+{'Best GS Acc': 0.3484330484330484, 'Val Acc': 0.9063860588645072, 'Best Params': {'C': 0.9, 'class_weight': 'balanced', 'solver': 'sag'}}
+{'Best GS Acc': 0.4581196581196581, 'Val Acc': 0.9016812590138693, 'Best Params': {'C': 0.1, 'class_weight': 'balanced', 'solver': 'newton-cg'}}
+{'Best GS Acc': 0.47735042735042726, 'Val Acc': 0.9066222601022298, 'Best Params': {'C': 0.6, 'class_weight': 'balanced', 'solver': 'newton-cg'}}
+{'Best GS Acc': 0.47663817663817665, 'Val Acc': 0.865000473804987, 'Best Params': {'C': 0.7000000000000001, 'class_weight': None, 'solver': 'lbfgs'}}
+{'Best GS Acc': 0.4603988603988604, 'Val Acc': 0.9085613466476803, 'Best Params': {'C': 0.30000000000000004, 'class_weight': 'balanced', 'solver': 'newton-cg'}}
+{'Best GS Acc': 0.37421652421652424, 'Val Acc': 0.8700875805956308, 'Best Params': {'C': 0.1, 'class_weight': 'balanced', 'solver': 'saga'}}
+{'Best GS Acc': 0.48148148148148157, 'Val Acc': 0.9206885100081087, 'Best Params': {'C': 0.1, 'class_weight': 'balanced', 'solver': 'newton-cg'}}
+{'Best GS Acc': 0.4263532763532764, 'Val Acc': 0.909064247651342, 'Best Params': {'C': 0.30000000000000004, 'class_weight': 'balanced', 'solver': 'newton-cg'}}
+{'Best GS Acc': 0.42207977207977204, 'Val Acc': 0.892993944138087, 'Best Params': {'C': 0.1, 'class_weight': 'balanced', 'solver': 'newton-cg'}}
+{'Best GS Acc': 0.4230769230769231, 'Val Acc': 0.9340815076901536, 'Best Params': {'C': 0.2, 'class_weight': 'balanced', 'solver': 'newton-cg'}}
+{'Best GS Acc': 0.4911680911680911, 'Val Acc': 0.7995637000010734, 'Best Params': {'C': 0.6, 'class_weight': 'balanced', 'solver': 'sag'}}
+{'Best GS Acc': 0.4185185185185185, 'Val Acc': 0.9033226193703288, 'Best Params': {'C': 0.4, 'class_weight': 'balanced', 'solver': 'newton-cg'}}
+{'Best GS Acc': 0.4045584045584045, 'Val Acc': 0.8944726364509579, 'Best Params': {'C': 0.1, 'class_weight': 'balanced', 'solver': 'newton-cg'}}
+{'Best GS Acc': 0.37920227920227917, 'Val Acc': 0.8780279233340845, 'Best Params': {'C': 0.1, 'class_weight': 'balanced', 'solver': 'newton-cg'}}
+{'Best GS Acc': 0.46367521367521364, 'Val Acc': 0.8627490997705247, 'Best Params': {'C': 0.1, 'class_weight': 'balanced', 'solver': 'newton-cg'}}
+{'Best GS Acc': 0.4508547008547008, 'Val Acc': 0.9223008863507087, 'Best Params': {'C': 0.1, 'class_weight': 'balanced', 'solver': 'saga'}}
+{'Best GS Acc': 0.45484330484330476, 'Val Acc': 0.884535632434792, 'Best Params': {'C': 0.2, 'class_weight': 'balanced', 'solver': 'sag'}}
+### Best Combination : 0.9340815076901536 {'Best GS Acc': 0.4230769230769231, 'Val Acc': 0.9340815076901536, 'Best Params': {'C': 0.2, 'class_weight': 'balanced', 'solver': 'newton-cg'}}
+##### Classification report #####
+              precision    recall  f1-score   support
+
+           0       0.43      0.60      0.50         5
+           1       1.00      0.50      0.67         4
+           2       0.38      0.75      0.50         4
+           3       0.50      0.20      0.29         5
+           4       0.00      0.00      0.00         2
+           5       0.62      0.89      0.73         9
+           6       1.00      0.33      0.50         3
+           7       0.00      0.00      0.00         2
+           8       1.00      1.00      1.00         2
+           9       0.00      0.00      0.00         2
+          10       0.67      0.67      0.67         3
+          11       0.50      0.50      0.50         2
+          12       1.00      0.50      0.67         2
+
+    accuracy                           0.53        45
+   macro avg       0.55      0.46      0.46        45
+weighted avg       0.57      0.53      0.51        45
+

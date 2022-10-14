@@ -1,0 +1,47 @@
+{'Best GS Acc': 0.21851851851851856, 'Val Acc': 0.875360078832125, 'Best Params': {'var_smoothing': 1e-08}}
+{'Best GS Acc': 0.26723646723646727, 'Val Acc': 0.7838954912119845, 'Best Params': {'var_smoothing': 1e-08}}
+{'Best GS Acc': 0.26039886039886034, 'Val Acc': 0.7772714512921157, 'Best Params': {'var_smoothing': 1e-08}}
+{'Best GS Acc': 0.24572649572649574, 'Val Acc': 0.8372995399396261, 'Best Params': {'var_smoothing': 1e-08}}
+{'Best GS Acc': 0.20968660968660968, 'Val Acc': 0.8473771913457465, 'Best Params': {'var_smoothing': 1e-08}}
+{'Best GS Acc': 0.21851851851851856, 'Val Acc': 0.875360078832125, 'Best Params': {'var_smoothing': 1e-08}}
+{'Best GS Acc': 0.26723646723646727, 'Val Acc': 0.7838954912119845, 'Best Params': {'var_smoothing': 1e-08}}
+{'Best GS Acc': 0.26039886039886034, 'Val Acc': 0.7772714512921157, 'Best Params': {'var_smoothing': 1e-08}}
+{'Best GS Acc': 0.24572649572649574, 'Val Acc': 0.8372995399396261, 'Best Params': {'var_smoothing': 1e-08}}
+{'Best GS Acc': 0.20968660968660968, 'Val Acc': 0.8473771913457465, 'Best Params': {'var_smoothing': 1e-08}}
+{'Best GS Acc': 0.21851851851851856, 'Val Acc': 0.875360078832125, 'Best Params': {'var_smoothing': 1e-08}}
+{'Best GS Acc': 0.26723646723646727, 'Val Acc': 0.7838954912119845, 'Best Params': {'var_smoothing': 1e-08}}
+{'Best GS Acc': 0.26039886039886034, 'Val Acc': 0.7772714512921157, 'Best Params': {'var_smoothing': 1e-08}}
+{'Best GS Acc': 0.24572649572649574, 'Val Acc': 0.8372995399396261, 'Best Params': {'var_smoothing': 1e-08}}
+{'Best GS Acc': 0.20968660968660968, 'Val Acc': 0.8473771913457465, 'Best Params': {'var_smoothing': 1e-08}}
+{'Best GS Acc': 0.21851851851851856, 'Val Acc': 0.875360078832125, 'Best Params': {'var_smoothing': 1e-08}}
+{'Best GS Acc': 0.26723646723646727, 'Val Acc': 0.7838954912119845, 'Best Params': {'var_smoothing': 1e-08}}
+{'Best GS Acc': 0.26039886039886034, 'Val Acc': 0.7772714512921157, 'Best Params': {'var_smoothing': 1e-08}}
+{'Best GS Acc': 0.24572649572649574, 'Val Acc': 0.8372995399396261, 'Best Params': {'var_smoothing': 1e-08}}
+{'Best GS Acc': 0.20968660968660968, 'Val Acc': 0.8473771913457465, 'Best Params': {'var_smoothing': 1e-08}}
+{'Best GS Acc': 0.21851851851851856, 'Val Acc': 0.875360078832125, 'Best Params': {'var_smoothing': 1e-08}}
+{'Best GS Acc': 0.26723646723646727, 'Val Acc': 0.7838954912119845, 'Best Params': {'var_smoothing': 1e-08}}
+{'Best GS Acc': 0.26039886039886034, 'Val Acc': 0.7772714512921157, 'Best Params': {'var_smoothing': 1e-08}}
+{'Best GS Acc': 0.24572649572649574, 'Val Acc': 0.8372995399396261, 'Best Params': {'var_smoothing': 1e-08}}
+{'Best GS Acc': 0.20968660968660968, 'Val Acc': 0.8473771913457465, 'Best Params': {'var_smoothing': 1e-08}}
+### Best Combination : 0.875360078832125 {'Best GS Acc': 0.21851851851851856, 'Val Acc': 0.875360078832125, 'Best Params': {'var_smoothing': 1e-08}}
+##### Classification report #####
+              precision    recall  f1-score   support
+
+           0       0.50      0.60      0.55         5
+           1       1.00      0.25      0.40         4
+           2       0.43      0.75      0.55         4
+           3       0.50      0.40      0.44         5
+           4       0.00      0.00      0.00         2
+           5       0.47      0.89      0.62         9
+           6       0.67      0.67      0.67         3
+           7       0.00      0.00      0.00         2
+           8       1.00      0.50      0.67         2
+           9       0.00      0.00      0.00         2
+          10       0.50      0.33      0.40         3
+          11       0.00      0.00      0.00         2
+          12       0.00      0.00      0.00         2
+
+    accuracy                           0.47        45
+   macro avg       0.39      0.34      0.33        45
+weighted avg       0.45      0.47      0.42        45
+

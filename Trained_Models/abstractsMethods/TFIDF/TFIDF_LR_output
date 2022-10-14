@@ -1,0 +1,94 @@
+{'Best GS Acc': 0.7180911680911682, 'Val Acc': 0.9311753696166727, 'Best Params': {'lr__C': 0.7000000000000001, 'lr__class_weight': 'balanced', 'lr__solver': 'saga', 'tvec__max_df': 0.5, 'tvec__max_features': 220, 'tvec__min_df': 0.001, 'tvec__ngram_range': (1, 2), 'tvec__stop_words': 'english'}}
+{'Best GS Acc': 0.6358974358974359, 'Val Acc': 0.8848242503636773, 'Best Params': {'lr__C': 0.2, 'lr__class_weight': 'balanced', 'lr__solver': 'saga', 'tvec__max_df': 0.5, 'tvec__max_features': 220, 'tvec__min_df': 0.01, 'tvec__ngram_range': (1, 1), 'tvec__stop_words': 'english'}}
+{'Best GS Acc': 0.6434472934472936, 'Val Acc': 0.9609094345244193, 'Best Params': {'lr__C': 0.7000000000000001, 'lr__class_weight': 'balanced', 'lr__solver': 'newton-cg', 'tvec__max_df': 0.5, 'tvec__max_features': 220, 'tvec__min_df': 0.1, 'tvec__ngram_range': (1, 1), 'tvec__stop_words': 'english'}}
+{'Best GS Acc': 0.5715099715099715, 'Val Acc': 0.9722022394816512, 'Best Params': {'lr__C': 0.1, 'lr__class_weight': 'balanced', 'lr__solver': 'saga', 'tvec__max_df': 0.7, 'tvec__max_features': 220, 'tvec__min_df': 0.001, 'tvec__ngram_range': (1, 1), 'tvec__stop_words': 'english'}}
+{'Best GS Acc': 0.6554131054131055, 'Val Acc': 0.9619282317032384, 'Best Params': {'lr__C': 0.6, 'lr__class_weight': 'balanced', 'lr__solver': 'saga', 'tvec__max_df': 0.5, 'tvec__max_features': 220, 'tvec__min_df': 0.1, 'tvec__ngram_range': (1, 1), 'tvec__stop_words': 'english'}}
+{'Best GS Acc': 0.6481481481481481, 'Val Acc': 0.9297808447656318, 'Best Params': {'lr__C': 0.4, 'lr__class_weight': 'balanced', 'lr__solver': 'saga', 'tvec__max_df': 0.5, 'tvec__max_features': 220, 'tvec__min_df': 0.001, 'tvec__ngram_range': (1, 2), 'tvec__stop_words': 'english'}}
+{'Best GS Acc': 0.6764957264957264, 'Val Acc': 0.9397053243972615, 'Best Params': {'lr__C': 0.9, 'lr__class_weight': 'balanced', 'lr__solver': 'saga', 'tvec__max_df': 0.6, 'tvec__max_features': 220, 'tvec__min_df': 0.001, 'tvec__ngram_range': (1, 2), 'tvec__stop_words': 'english'}}
+{'Best GS Acc': 0.6405982905982907, 'Val Acc': 0.9551513700220597, 'Best Params': {'lr__C': 0.5, 'lr__class_weight': 'balanced', 'lr__solver': 'saga', 'tvec__max_df': 0.8, 'tvec__max_features': 220, 'tvec__min_df': 0.1, 'tvec__ngram_range': (1, 1), 'tvec__stop_words': None}}
+{'Best GS Acc': 0.6854700854700854, 'Val Acc': 0.9519289091899383, 'Best Params': {'lr__C': 0.4, 'lr__class_weight': 'balanced', 'lr__solver': 'saga', 'tvec__max_df': 0.9, 'tvec__max_features': 220, 'tvec__min_df': 0.1, 'tvec__ngram_range': (1, 1), 'tvec__stop_words': 'english'}}
+{'Best GS Acc': 0.7106837606837607, 'Val Acc': 0.9600290556105139, 'Best Params': {'lr__C': 0.2, 'lr__class_weight': 'balanced', 'lr__solver': 'saga', 'tvec__max_df': 0.6, 'tvec__max_features': 220, 'tvec__min_df': 0.01, 'tvec__ngram_range': (1, 1), 'tvec__stop_words': 'english'}}
+{'Best GS Acc': 0.6517094017094017, 'Val Acc': 0.939528397565923, 'Best Params': {'lr__C': 0.9, 'lr__class_weight': 'balanced', 'lr__solver': 'saga', 'tvec__max_df': 0.5, 'tvec__max_features': 220, 'tvec__min_df': 0.001, 'tvec__ngram_range': (1, 1), 'tvec__stop_words': 'english'}}
+{'Best GS Acc': 0.6571225071225071, 'Val Acc': 0.9493585964079116, 'Best Params': {'lr__C': 0.2, 'lr__class_weight': 'balanced', 'lr__solver': 'saga', 'tvec__max_df': 0.5, 'tvec__max_features': 180, 'tvec__min_df': 0.001, 'tvec__ngram_range': (1, 1), 'tvec__stop_words': 'english'}}
+{'Best GS Acc': 0.6327635327635327, 'Val Acc': 0.9439575640862405, 'Best Params': {'lr__C': 0.4, 'lr__class_weight': 'balanced', 'lr__solver': 'saga', 'tvec__max_df': 0.9, 'tvec__max_features': 220, 'tvec__min_df': 0.001, 'tvec__ngram_range': (1, 1), 'tvec__stop_words': 'english'}}
+{'Best GS Acc': 0.6951566951566951, 'Val Acc': 0.9353376503858247, 'Best Params': {'lr__C': 0.8, 'lr__class_weight': 'balanced', 'lr__solver': 'saga', 'tvec__max_df': 0.5, 'tvec__max_features': 220, 'tvec__min_df': 0.001, 'tvec__ngram_range': (1, 1), 'tvec__stop_words': 'english'}}
+{'Best GS Acc': 0.6988603988603989, 'Val Acc': 0.9361228362312667, 'Best Params': {'lr__C': 0.7000000000000001, 'lr__class_weight': 'balanced', 'lr__solver': 'saga', 'tvec__max_df': 0.6, 'tvec__max_features': 220, 'tvec__min_df': 0.1, 'tvec__ngram_range': (1, 1), 'tvec__stop_words': 'english'}}
+{'Best GS Acc': 0.6981481481481481, 'Val Acc': 0.9290019233921364, 'Best Params': {'lr__C': 0.7000000000000001, 'lr__class_weight': 'balanced', 'lr__solver': 'saga', 'tvec__max_df': 0.5, 'tvec__max_features': 220, 'tvec__min_df': 0.01, 'tvec__ngram_range': (1, 1), 'tvec__stop_words': 'english'}}
+{'Best GS Acc': 0.6316239316239316, 'Val Acc': 0.9201313641095589, 'Best Params': {'lr__C': 0.7000000000000001, 'lr__class_weight': 'balanced', 'lr__solver': 'saga', 'tvec__max_df': 0.9, 'tvec__max_features': 180, 'tvec__min_df': 0.1, 'tvec__ngram_range': (1, 1), 'tvec__stop_words': None}}
+{'Best GS Acc': 0.631054131054131, 'Val Acc': 0.9521491370407443, 'Best Params': {'lr__C': 0.30000000000000004, 'lr__class_weight': 'balanced', 'lr__solver': 'saga', 'tvec__max_df': 0.7, 'tvec__max_features': 220, 'tvec__min_df': 0.001, 'tvec__ngram_range': (1, 1), 'tvec__stop_words': 'english'}}
+{'Best GS Acc': 0.7025641025641026, 'Val Acc': 0.9412474071830054, 'Best Params': {'lr__C': 0.2, 'lr__class_weight': 'balanced', 'lr__solver': 'saga', 'tvec__max_df': 0.9, 'tvec__max_features': 220, 'tvec__min_df': 0.001, 'tvec__ngram_range': (1, 1), 'tvec__stop_words': 'english'}}
+{'Best GS Acc': 0.6746438746438747, 'Val Acc': 0.9425844237988449, 'Best Params': {'lr__C': 1.0, 'lr__class_weight': 'balanced', 'lr__solver': 'saga', 'tvec__max_df': 0.9, 'tvec__max_features': 220, 'tvec__min_df': 0.001, 'tvec__ngram_range': (1, 1), 'tvec__stop_words': 'english'}}
+{'Best GS Acc': 0.6545584045584046, 'Val Acc': 0.9025908153665506, 'Best Params': {'lr__C': 0.2, 'lr__class_weight': 'balanced', 'lr__solver': 'saga', 'tvec__max_df': 0.5, 'tvec__max_features': 220, 'tvec__min_df': 0.001, 'tvec__ngram_range': (1, 1), 'tvec__stop_words': 'english'}}
+{'Best GS Acc': 0.6662393162393162, 'Val Acc': 0.9374243131596072, 'Best Params': {'lr__C': 0.8, 'lr__class_weight': 'balanced', 'lr__solver': 'newton-cg', 'tvec__max_df': 0.5, 'tvec__max_features': 220, 'tvec__min_df': 0.001, 'tvec__ngram_range': (1, 1), 'tvec__stop_words': 'english'}}
+{'Best GS Acc': 0.65, 'Val Acc': 0.936690234043809, 'Best Params': {'lr__C': 0.30000000000000004, 'lr__class_weight': 'balanced', 'lr__solver': 'newton-cg', 'tvec__max_df': 0.5, 'tvec__max_features': 220, 'tvec__min_df': 0.001, 'tvec__ngram_range': (1, 1), 'tvec__stop_words': 'english'}}
+{'Best GS Acc': 0.6914529914529915, 'Val Acc': 0.9685801634743064, 'Best Params': {'lr__C': 0.1, 'lr__class_weight': 'balanced', 'lr__solver': 'sag', 'tvec__max_df': 0.5, 'tvec__max_features': 220, 'tvec__min_df': 0.001, 'tvec__ngram_range': (1, 1), 'tvec__stop_words': 'english'}}
+{'Best GS Acc': 0.6675213675213675, 'Val Acc': 0.9583707383246554, 'Best Params': {'lr__C': 0.30000000000000004, 'lr__class_weight': 'balanced', 'lr__solver': 'saga', 'tvec__max_df': 0.6, 'tvec__max_features': 180, 'tvec__min_df': 0.1, 'tvec__ngram_range': (1, 2), 'tvec__stop_words': 'english'}}
+### Best Combination : 0.9722022394816512 {'Best GS Acc': 0.5715099715099715, 'Val Acc': 0.9722022394816512, 'Best Params': {'lr__C': 0.1, 'lr__class_weight': 'balanced', 'lr__solver': 'saga', 'tvec__max_df': 0.7, 'tvec__max_features': 220, 'tvec__min_df': 0.001, 'tvec__ngram_range': (1, 1), 'tvec__stop_words': 'english'}}
+##### Classification report #####
+              precision    recall  f1-score   support
+
+           0       0.75      0.60      0.67         5
+           1       1.00      0.75      0.86         4
+           2       0.67      0.50      0.57         4
+           3       0.67      0.80      0.73         5
+           4       0.33      0.50      0.40         2
+           5       0.88      0.78      0.82         9
+           6       1.00      0.67      0.80         3
+           7       0.67      1.00      0.80         2
+           8       1.00      0.50      0.67         2
+           9       0.00      0.00      0.00         2
+          10       0.75      1.00      0.86         3
+          11       0.00      0.00      0.00         2
+          12       0.40      1.00      0.57         2
+
+    accuracy                           0.67        45
+   macro avg       0.62      0.62      0.60        45
+weighted avg       0.70      0.67      0.67        45
+
+{'Best GS Acc': 0.7294871794871796, 'Val Acc': 0.9327211050303088, 'Best Params': {'lr__C': 0.9, 'lr__class_weight': 'balanced', 'lr__solver': 'saga', 'tvec__max_df': 0.5, 'tvec__max_features': 220, 'tvec__min_df': 0.01, 'tvec__ngram_range': (1, 2), 'tvec__stop_words': 'english'}}
+{'Best GS Acc': 0.6324786324786326, 'Val Acc': 0.9032859442976076, 'Best Params': {'lr__C': 0.5, 'lr__class_weight': 'balanced', 'lr__solver': 'saga', 'tvec__max_df': 0.6, 'tvec__max_features': 220, 'tvec__min_df': 0.01, 'tvec__ngram_range': (1, 1), 'tvec__stop_words': 'english'}}
+{'Best GS Acc': 0.6558404558404559, 'Val Acc': 0.9475686471471207, 'Best Params': {'lr__C': 0.1, 'lr__class_weight': 'balanced', 'lr__solver': 'saga', 'tvec__max_df': 0.5, 'tvec__max_features': 220, 'tvec__min_df': 0.001, 'tvec__ngram_range': (1, 2), 'tvec__stop_words': None}}
+{'Best GS Acc': 0.5695156695156695, 'Val Acc': 0.9772776345386638, 'Best Params': {'lr__C': 0.7000000000000001, 'lr__class_weight': 'balanced', 'lr__solver': 'saga', 'tvec__max_df': 0.6, 'tvec__max_features': 180, 'tvec__min_df': 0.001, 'tvec__ngram_range': (1, 2), 'tvec__stop_words': 'english'}}
+{'Best GS Acc': 0.6582621082621083, 'Val Acc': 0.9592061458014289, 'Best Params': {'lr__C': 0.9, 'lr__class_weight': 'balanced', 'lr__solver': 'saga', 'tvec__max_df': 0.5, 'tvec__max_features': 220, 'tvec__min_df': 0.01, 'tvec__ngram_range': (1, 1), 'tvec__stop_words': 'english'}}
+{'Best GS Acc': 0.6431623931623932, 'Val Acc': 0.9306225956073827, 'Best Params': {'lr__C': 0.4, 'lr__class_weight': 'balanced', 'lr__solver': 'saga', 'tvec__max_df': 0.5, 'tvec__max_features': 220, 'tvec__min_df': 0.01, 'tvec__ngram_range': (1, 2), 'tvec__stop_words': 'english'}}
+{'Best GS Acc': 0.6749287749287749, 'Val Acc': 0.9380713374691569, 'Best Params': {'lr__C': 0.5, 'lr__class_weight': 'balanced', 'lr__solver': 'saga', 'tvec__max_df': 0.5, 'tvec__max_features': 220, 'tvec__min_df': 0.1, 'tvec__ngram_range': (1, 1), 'tvec__stop_words': 'english'}}
+{'Best GS Acc': 0.6455840455840456, 'Val Acc': 0.9526493275383996, 'Best Params': {'lr__C': 0.7000000000000001, 'lr__class_weight': 'balanced', 'lr__solver': 'saga', 'tvec__max_df': 0.9, 'tvec__max_features': 220, 'tvec__min_df': 0.01, 'tvec__ngram_range': (1, 1), 'tvec__stop_words': None}}
+{'Best GS Acc': 0.6804843304843305, 'Val Acc': 0.9544046469597939, 'Best Params': {'lr__C': 0.30000000000000004, 'lr__class_weight': 'balanced', 'lr__solver': 'saga', 'tvec__max_df': 0.8, 'tvec__max_features': 220, 'tvec__min_df': 0.1, 'tvec__ngram_range': (1, 1), 'tvec__stop_words': 'english'}}
+{'Best GS Acc': 0.6958689458689458, 'Val Acc': 0.9602824120850686, 'Best Params': {'lr__C': 0.30000000000000004, 'lr__class_weight': 'balanced', 'lr__solver': 'saga', 'tvec__max_df': 0.6, 'tvec__max_features': 220, 'tvec__min_df': 0.01, 'tvec__ngram_range': (1, 1), 'tvec__stop_words': 'english'}}
+{'Best GS Acc': 0.6722222222222222, 'Val Acc': 0.9419390938629021, 'Best Params': {'lr__C': 0.2, 'lr__class_weight': 'balanced', 'lr__solver': 'saga', 'tvec__max_df': 0.5, 'tvec__max_features': 220, 'tvec__min_df': 0.001, 'tvec__ngram_range': (1, 1), 'tvec__stop_words': 'english'}}
+{'Best GS Acc': 0.6544159544159543, 'Val Acc': 0.9426556431088632, 'Best Params': {'lr__C': 0.4, 'lr__class_weight': 'balanced', 'lr__solver': 'newton-cg', 'tvec__max_df': 0.5, 'tvec__max_features': 220, 'tvec__min_df': 0.001, 'tvec__ngram_range': (1, 2), 'tvec__stop_words': 'english'}}
+{'Best GS Acc': 0.6334757834757835, 'Val Acc': 0.9472255379424497, 'Best Params': {'lr__C': 0.1, 'lr__class_weight': 'balanced', 'lr__solver': 'saga', 'tvec__max_df': 0.8, 'tvec__max_features': 220, 'tvec__min_df': 0.001, 'tvec__ngram_range': (1, 1), 'tvec__stop_words': 'english'}}
+{'Best GS Acc': 0.7101139601139601, 'Val Acc': 0.9335628025156422, 'Best Params': {'lr__C': 0.5, 'lr__class_weight': 'balanced', 'lr__solver': 'saga', 'tvec__max_df': 0.5, 'tvec__max_features': 220, 'tvec__min_df': 0.01, 'tvec__ngram_range': (1, 1), 'tvec__stop_words': None}}
+{'Best GS Acc': 0.692022792022792, 'Val Acc': 0.9339274126072715, 'Best Params': {'lr__C': 0.6, 'lr__class_weight': 'balanced', 'lr__solver': 'newton-cg', 'tvec__max_df': 0.6, 'tvec__max_features': 220, 'tvec__min_df': 0.1, 'tvec__ngram_range': (1, 2), 'tvec__stop_words': 'english'}}
+{'Best GS Acc': 0.6850427350427349, 'Val Acc': 0.9306606676979394, 'Best Params': {'lr__C': 0.6, 'lr__class_weight': 'balanced', 'lr__solver': 'saga', 'tvec__max_df': 0.5, 'tvec__max_features': 220, 'tvec__min_df': 0.01, 'tvec__ngram_range': (1, 1), 'tvec__stop_words': 'english'}}
+{'Best GS Acc': 0.6343304843304843, 'Val Acc': 0.9224646936012301, 'Best Params': {'lr__C': 0.5, 'lr__class_weight': 'balanced', 'lr__solver': 'saga', 'tvec__max_df': 0.8, 'tvec__max_features': 180, 'tvec__min_df': 0.001, 'tvec__ngram_range': (1, 1), 'tvec__stop_words': None}}
+{'Best GS Acc': 0.628062678062678, 'Val Acc': 0.9371383227620549, 'Best Params': {'lr__C': 0.1, 'lr__class_weight': 'balanced', 'lr__solver': 'sag', 'tvec__max_df': 0.5, 'tvec__max_features': 220, 'tvec__min_df': 0.001, 'tvec__ngram_range': (1, 2), 'tvec__stop_words': 'english'}}
+{'Best GS Acc': 0.7111111111111111, 'Val Acc': 0.9395236214043261, 'Best Params': {'lr__C': 0.1, 'lr__class_weight': 'balanced', 'lr__solver': 'sag', 'tvec__max_df': 0.9, 'tvec__max_features': 220, 'tvec__min_df': 0.001, 'tvec__ngram_range': (1, 1), 'tvec__stop_words': 'english'}}
+{'Best GS Acc': 0.6682336182336183, 'Val Acc': 0.9410074293647077, 'Best Params': {'lr__C': 0.8, 'lr__class_weight': 'balanced', 'lr__solver': 'newton-cg', 'tvec__max_df': 0.9, 'tvec__max_features': 220, 'tvec__min_df': 0.1, 'tvec__ngram_range': (1, 1), 'tvec__stop_words': 'english'}}
+{'Best GS Acc': 0.6635327635327635, 'Val Acc': 0.9134284108105102, 'Best Params': {'lr__C': 0.1, 'lr__class_weight': 'balanced', 'lr__solver': 'sag', 'tvec__max_df': 0.6, 'tvec__max_features': 220, 'tvec__min_df': 0.01, 'tvec__ngram_range': (1, 2), 'tvec__stop_words': 'english'}}
+{'Best GS Acc': 0.6678062678062678, 'Val Acc': 0.9357408114761055, 'Best Params': {'lr__C': 0.7000000000000001, 'lr__class_weight': 'balanced', 'lr__solver': 'saga', 'tvec__max_df': 0.5, 'tvec__max_features': 220, 'tvec__min_df': 0.1, 'tvec__ngram_range': (1, 1), 'tvec__stop_words': None}}
+{'Best GS Acc': 0.65, 'Val Acc': 0.936690234043809, 'Best Params': {'lr__C': 0.30000000000000004, 'lr__class_weight': 'balanced', 'lr__solver': 'newton-cg', 'tvec__max_df': 0.5, 'tvec__max_features': 220, 'tvec__min_df': 0.001, 'tvec__ngram_range': (1, 1), 'tvec__stop_words': 'english'}}
+{'Best GS Acc': 0.6784900284900286, 'Val Acc': 0.9693738142679573, 'Best Params': {'lr__C': 0.2, 'lr__class_weight': 'balanced', 'lr__solver': 'newton-cg', 'tvec__max_df': 0.5, 'tvec__max_features': 220, 'tvec__min_df': 0.1, 'tvec__ngram_range': (1, 1), 'tvec__stop_words': 'english'}}
+{'Best GS Acc': 0.6793447293447293, 'Val Acc': 0.956428671175215, 'Best Params': {'lr__C': 0.2, 'lr__class_weight': 'balanced', 'lr__solver': 'saga', 'tvec__max_df': 0.6, 'tvec__max_features': 180, 'tvec__min_df': 0.1, 'tvec__ngram_range': (1, 2), 'tvec__stop_words': 'english'}}
+### Best Combination : 0.9772776345386638 {'Best GS Acc': 0.5695156695156695, 'Val Acc': 0.9772776345386638, 'Best Params': {'lr__C': 0.7000000000000001, 'lr__class_weight': 'balanced', 'lr__solver': 'saga', 'tvec__max_df': 0.6, 'tvec__max_features': 180, 'tvec__min_df': 0.001, 'tvec__ngram_range': (1, 2), 'tvec__stop_words': 'english'}}
+##### Classification report #####
+              precision    recall  f1-score   support
+
+           0       1.00      0.60      0.75         5
+           1       1.00      0.75      0.86         4
+           2       0.67      0.50      0.57         4
+           3       0.80      0.80      0.80         5
+           4       0.33      0.50      0.40         2
+           5       0.88      0.78      0.82         9
+           6       0.60      1.00      0.75         3
+           7       1.00      1.00      1.00         2
+           8       0.50      1.00      0.67         2
+           9       0.00      0.00      0.00         2
+          10       1.00      0.67      0.80         3
+          11       0.00      0.00      0.00         2
+          12       0.40      1.00      0.57         2
+
+    accuracy                           0.69        45
+   macro avg       0.63      0.66      0.61        45
+weighted avg       0.73      0.69      0.68        45
+

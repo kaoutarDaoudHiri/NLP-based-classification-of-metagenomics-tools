@@ -1,0 +1,47 @@
+{'Best GS Acc': 0.3270655270655271, 'Val Acc': 0.9254817063101799, 'Best Params': {'tvec__max_df': 0.5, 'tvec__max_features': 180, 'tvec__min_df': 0.1, 'tvec__ngram_range': (1, 2), 'tvec__stop_words': 'english'}}
+{'Best GS Acc': 0.27321937321937323, 'Val Acc': 0.9086936675140274, 'Best Params': {'tvec__max_df': 0.7, 'tvec__max_features': 100, 'tvec__min_df': 0.001, 'tvec__ngram_range': (1, 1), 'tvec__stop_words': None}}
+{'Best GS Acc': 0.28461538461538466, 'Val Acc': 0.9189207344379757, 'Best Params': {'tvec__max_df': 0.6, 'tvec__max_features': 220, 'tvec__min_df': 0.1, 'tvec__ngram_range': (1, 1), 'tvec__stop_words': 'english'}}
+{'Best GS Acc': 0.3178062678062678, 'Val Acc': 0.9155412731097314, 'Best Params': {'tvec__max_df': 0.7, 'tvec__max_features': 180, 'tvec__min_df': 0.1, 'tvec__ngram_range': (1, 1), 'tvec__stop_words': None}}
+{'Best GS Acc': 0.28603988603988606, 'Val Acc': 0.9578755871035283, 'Best Params': {'tvec__max_df': 0.5, 'tvec__max_features': 180, 'tvec__min_df': 0.001, 'tvec__ngram_range': (1, 1), 'tvec__stop_words': 'english'}}
+{'Best GS Acc': 0.3270655270655271, 'Val Acc': 0.9254817063101799, 'Best Params': {'tvec__max_df': 0.5, 'tvec__max_features': 180, 'tvec__min_df': 0.1, 'tvec__ngram_range': (1, 2), 'tvec__stop_words': 'english'}}
+{'Best GS Acc': 0.27321937321937323, 'Val Acc': 0.9086936675140274, 'Best Params': {'tvec__max_df': 0.7, 'tvec__max_features': 100, 'tvec__min_df': 0.001, 'tvec__ngram_range': (1, 1), 'tvec__stop_words': None}}
+{'Best GS Acc': 0.28461538461538466, 'Val Acc': 0.9189207344379757, 'Best Params': {'tvec__max_df': 0.6, 'tvec__max_features': 220, 'tvec__min_df': 0.1, 'tvec__ngram_range': (1, 1), 'tvec__stop_words': 'english'}}
+{'Best GS Acc': 0.3178062678062678, 'Val Acc': 0.9155412731097314, 'Best Params': {'tvec__max_df': 0.7, 'tvec__max_features': 180, 'tvec__min_df': 0.1, 'tvec__ngram_range': (1, 1), 'tvec__stop_words': None}}
+{'Best GS Acc': 0.28603988603988606, 'Val Acc': 0.9578755871035283, 'Best Params': {'tvec__max_df': 0.5, 'tvec__max_features': 180, 'tvec__min_df': 0.001, 'tvec__ngram_range': (1, 1), 'tvec__stop_words': 'english'}}
+{'Best GS Acc': 0.3270655270655271, 'Val Acc': 0.9254817063101799, 'Best Params': {'tvec__max_df': 0.5, 'tvec__max_features': 180, 'tvec__min_df': 0.1, 'tvec__ngram_range': (1, 2), 'tvec__stop_words': 'english'}}
+{'Best GS Acc': 0.27321937321937323, 'Val Acc': 0.9086936675140274, 'Best Params': {'tvec__max_df': 0.7, 'tvec__max_features': 100, 'tvec__min_df': 0.001, 'tvec__ngram_range': (1, 1), 'tvec__stop_words': None}}
+{'Best GS Acc': 0.28461538461538466, 'Val Acc': 0.9189207344379757, 'Best Params': {'tvec__max_df': 0.6, 'tvec__max_features': 220, 'tvec__min_df': 0.1, 'tvec__ngram_range': (1, 1), 'tvec__stop_words': 'english'}}
+{'Best GS Acc': 0.3178062678062678, 'Val Acc': 0.9155412731097314, 'Best Params': {'tvec__max_df': 0.7, 'tvec__max_features': 180, 'tvec__min_df': 0.1, 'tvec__ngram_range': (1, 1), 'tvec__stop_words': None}}
+{'Best GS Acc': 0.28603988603988606, 'Val Acc': 0.9578755871035283, 'Best Params': {'tvec__max_df': 0.5, 'tvec__max_features': 180, 'tvec__min_df': 0.001, 'tvec__ngram_range': (1, 1), 'tvec__stop_words': 'english'}}
+{'Best GS Acc': 0.3270655270655271, 'Val Acc': 0.9254817063101799, 'Best Params': {'tvec__max_df': 0.5, 'tvec__max_features': 180, 'tvec__min_df': 0.1, 'tvec__ngram_range': (1, 2), 'tvec__stop_words': 'english'}}
+{'Best GS Acc': 0.27321937321937323, 'Val Acc': 0.9086936675140274, 'Best Params': {'tvec__max_df': 0.7, 'tvec__max_features': 100, 'tvec__min_df': 0.001, 'tvec__ngram_range': (1, 1), 'tvec__stop_words': None}}
+{'Best GS Acc': 0.28461538461538466, 'Val Acc': 0.9189207344379757, 'Best Params': {'tvec__max_df': 0.6, 'tvec__max_features': 220, 'tvec__min_df': 0.1, 'tvec__ngram_range': (1, 1), 'tvec__stop_words': 'english'}}
+{'Best GS Acc': 0.3178062678062678, 'Val Acc': 0.9155412731097314, 'Best Params': {'tvec__max_df': 0.7, 'tvec__max_features': 180, 'tvec__min_df': 0.1, 'tvec__ngram_range': (1, 1), 'tvec__stop_words': None}}
+{'Best GS Acc': 0.28603988603988606, 'Val Acc': 0.9578755871035283, 'Best Params': {'tvec__max_df': 0.5, 'tvec__max_features': 180, 'tvec__min_df': 0.001, 'tvec__ngram_range': (1, 1), 'tvec__stop_words': 'english'}}
+{'Best GS Acc': 0.3270655270655271, 'Val Acc': 0.9254817063101799, 'Best Params': {'tvec__max_df': 0.5, 'tvec__max_features': 180, 'tvec__min_df': 0.1, 'tvec__ngram_range': (1, 2), 'tvec__stop_words': 'english'}}
+{'Best GS Acc': 0.27321937321937323, 'Val Acc': 0.9086936675140274, 'Best Params': {'tvec__max_df': 0.7, 'tvec__max_features': 100, 'tvec__min_df': 0.001, 'tvec__ngram_range': (1, 1), 'tvec__stop_words': None}}
+{'Best GS Acc': 0.28461538461538466, 'Val Acc': 0.9189207344379757, 'Best Params': {'tvec__max_df': 0.6, 'tvec__max_features': 220, 'tvec__min_df': 0.1, 'tvec__ngram_range': (1, 1), 'tvec__stop_words': 'english'}}
+{'Best GS Acc': 0.3178062678062678, 'Val Acc': 0.9155412731097314, 'Best Params': {'tvec__max_df': 0.7, 'tvec__max_features': 180, 'tvec__min_df': 0.1, 'tvec__ngram_range': (1, 1), 'tvec__stop_words': None}}
+{'Best GS Acc': 0.28603988603988606, 'Val Acc': 0.9578755871035283, 'Best Params': {'tvec__max_df': 0.5, 'tvec__max_features': 180, 'tvec__min_df': 0.001, 'tvec__ngram_range': (1, 1), 'tvec__stop_words': 'english'}}
+### Best Combination : 0.9578755871035283 {'Best GS Acc': 0.28603988603988606, 'Val Acc': 0.9578755871035283, 'Best Params': {'tvec__max_df': 0.5, 'tvec__max_features': 180, 'tvec__min_df': 0.001, 'tvec__ngram_range': (1, 1), 'tvec__stop_words': 'english'}}
+##### Classification report #####
+              precision    recall  f1-score   support
+
+           0       0.50      1.00      0.67         5
+           1       1.00      0.75      0.86         4
+           2       0.00      0.00      0.00         4
+           3       0.57      1.00      0.73         4
+           4       0.00      0.00      0.00         3
+           5       0.56      1.00      0.72         9
+           6       0.75      1.00      0.86         3
+           7       0.00      0.00      0.00         2
+           8       0.00      0.00      0.00         2
+           9       0.00      0.00      0.00         2
+          10       0.67      0.67      0.67         3
+          11       0.00      0.00      0.00         2
+          12       0.00      0.00      0.00         2
+
+    accuracy                           0.58        45
+   macro avg       0.31      0.42      0.35        45
+weighted avg       0.40      0.58      0.46        45
+
